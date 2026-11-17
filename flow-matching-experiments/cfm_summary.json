@@ -1,0 +1,8 @@
+{
+  "model": "CFM MNIST (ConvBlock x8, hidden=256)",
+  "params_m": 0.615425,
+  "n_epochs": 70,
+  "batch_size": 128,
+  "final_loss": 0.10387988104177182,
+  "time_min": 34.44304443200429
+}

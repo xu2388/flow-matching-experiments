@@ -1,0 +1,9 @@
+{
+  "model": "MNIST Flow Matching v2 (UNet + CondOT + EMA)",
+  "params_m": 8.586689,
+  "n_epochs": 60,
+  "batch_size": 256,
+  "final_train_loss": 0.2372981529920659,
+  "final_val_loss": 0.23356244564056397,
+  "time_min": 22.15312676827113
+}

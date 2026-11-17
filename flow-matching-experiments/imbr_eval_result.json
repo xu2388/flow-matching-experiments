@@ -1,0 +1,7 @@
+{
+  "iou": 0.32165664913598796,
+  "target_coverage": 0.8681875792141952,
+  "generated_points": 5000,
+  "target_points": 5000,
+  "model": "model_rpot_fm.pth"
+}
